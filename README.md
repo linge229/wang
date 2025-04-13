@@ -89,4 +89,3 @@ MIT Licensed. Credit to original author required when redistributing.
 
 📧 **Contact**: [wklin@mail.nwpu.edu.cn](mailto:wklin@mail.nwpu.edu.cn)  
 🐛 [Report Issues](https://github.com/yourusername/academic-resume/issues)
-```
