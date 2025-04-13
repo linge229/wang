@@ -1,4 +1,3 @@
-```markdown
 # Academic Resume Template
 
 ![Resume Preview](./preview.jpg)
